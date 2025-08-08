@@ -12,4 +12,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on my git hub pages
+
 
